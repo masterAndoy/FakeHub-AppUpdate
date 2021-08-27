@@ -1,1 +1,1 @@
-App Update
+App Update only
